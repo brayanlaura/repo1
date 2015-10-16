@@ -15,7 +15,7 @@ public class App {
 
 		int longitud = 0, opcion = 0;
 		entrada = new Scanner(System.in);
-
+         //estoy poniendo un comentario
 		System.out.print("Ingrese el numero de elementos del arreglo: ");
 		longitud = entrada.nextInt();
 
